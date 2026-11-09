@@ -1,0 +1,8 @@
+{
+  "name": "NumberScope",
+  "description": "Open-source OSINT investigation platform for phone numbers, digital footprints, and public information.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
